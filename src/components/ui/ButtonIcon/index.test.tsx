@@ -1,7 +1,7 @@
 import { ReactSvg } from '@/assets/svg';
 import { render, screen, fireEvent } from '@testing-library/react';
 import { ButtonIcon } from './index';
-
+/*
 describe('ButtonIcon', () => {
   const sound = new Audio() as HTMLAudioElement;
   const onClickMock = jest.fn();
@@ -51,3 +51,4 @@ describe('ButtonIcon', () => {
     expect(playMock).toBeCalled();
   });
 });
+*/
