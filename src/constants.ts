@@ -13,7 +13,7 @@ export const LOCALES_DATA: InputData[] = [
   { value: Locale.PT, caption: 'settings.portuguese' },
 ];
 
-export const JS_SLOTS_URL = 'https://marianapatcosta.github.io/js-slots-cra/';
+export const JS_SLOTS_URL = 'https://github.com/robindpw/Slotmachine_react/';
 
 export const LOADING_TIME: number = 3000; // in milliseconds
 
